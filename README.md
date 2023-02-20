@@ -73,7 +73,8 @@ UNA VEZ ECHO ESTO ESTAMOS LISTOS PARA SUBIR NUESTRO PRIMER REPOSITORIO PERO COMO
 
 1- El primer paso sera abrir la consola de comando y inicializar el siguiente comando Se pondra el comando y abajo su explicacion.
 
-*git init 
+*git init
+
 +El comando git init crea un nuevo repositorio de Git. Puede utilizarse para convertir un proyecto existente y sin versión en un repositorio de Git, o para inicializar un nuevo repositorio vacío
 
 2- Basicamente este codigo lo que nos inica es que ya vamos a subir un repositorio y como saber cuales pues lo vas hacer mediante la url del repositorio
