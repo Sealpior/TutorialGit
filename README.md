@@ -91,6 +91,7 @@ UNA VEZ ECHO ESTO ESTAMOS LISTOS PARA SUBIR NUESTRO PRIMER REPOSITORIO PERO COMO
 4- El siguiente codigo siempre si o si que vayamos a subir un repositorio hay que ponerlo no es necesario pero nos mostrara si hay alguna actualizacion echa por ti o por tus colegas de estudio o trabajo 
 
 *git fetch origin main
+
 ![image](https://user-images.githubusercontent.com/125293481/220140318-81e2d86d-a1f3-4146-8e8c-1da8bacf0f2f.png)
 ![image](https://user-images.githubusercontent.com/125293481/220140644-18ecfdd0-3550-4c3d-8df3-d6c1b536c92b.png)
 ![image](https://user-images.githubusercontent.com/125293481/220140725-aa1e325d-e318-4cf9-9893-df241a585e16.png)
@@ -102,6 +103,7 @@ UNA VEZ ECHO ESTO ESTAMOS LISTOS PARA SUBIR NUESTRO PRIMER REPOSITORIO PERO COMO
 6- Basicamente este comando lo que hace es decirle a git que nuestros archivos estan listos y que haga las actualizaciones necesesarias 
 
 *git add .
+
 ![image](https://user-images.githubusercontent.com/125293481/220142021-74b120a1-104c-49dc-98f8-4be26863a332.png)
 
 7- El siguiente no tiene explicacion hay que ver que tan pendiente estas y tu mismo sabras para que sera este comando 
@@ -115,6 +117,7 @@ UNA VEZ ECHO ESTO ESTAMOS LISTOS PARA SUBIR NUESTRO PRIMER REPOSITORIO PERO COMO
 9- Y FINALMENTE CON ESTE CODIGO LE VAS A INDICAR A GIT QUE TU REPOSITORIO ESTA COMPLETO Y LO SUBIRAS 
 
 *git push -u origin main
+
 ![image](https://user-images.githubusercontent.com/125293481/220143422-8ea53d7f-ce48-4f0f-8bc8-f04eac87997a.png)
 
 
